@@ -1,0 +1,23 @@
+{
+  "name": "drumkit",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyperVS/DrumKit.git"
+  },
+  "author": "HyperVS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HyperVS/DrumKit/issues"
+  },
+  "homepage": "https://github.com/HyperVS/DrumKit#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
